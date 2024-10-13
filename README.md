@@ -1,4 +1,4 @@
--### Hi there 👋 I'm Elias!
+- Hi there 👋 I'm Elias!
 
 - 👀 I’m interested in **website development**, from front-end to back-end, and building innovative web applications.
 - 🌱 I’m currently studying **Computer Science** at Addis Ababa University, continuously learning new technologies and improving my skills.
