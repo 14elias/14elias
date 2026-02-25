@@ -4,7 +4,7 @@
 ⚙️ Django • FastAPI • React • LangChain • LangGraph  
 🌱 Exploring Machine Learning, Retrieval-Augmented Generation, and scalable backend systems  
 
-<h2 align="left">📊 GitHub Insights</h2>
+<h2 align="left">📊 GitHub Insights</h2><br>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
