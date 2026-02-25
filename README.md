@@ -1,5 +1,7 @@
 🚀 Python Developer building scalable AI-powered web applications and RAG systems.
+
 ⚙️ Experienced with Django, FastAPI, React, and LLM frameworks like LangChain & LangGraph.
+
 🌱 Exploring Machine Learning, RAG pipelines, and advanced backend architecture.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=14elias&theme=dark)](https://git.io/streak-stats)
