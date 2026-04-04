@@ -7,7 +7,7 @@
 
 <p align="center">
 🚀 Building AI-powered web apps and Retrieval-Augmented Generation (RAG) pipelines<br>
-⚙️ Django • FastAPI • React • LangChain • LangGraph • Docker<br>
+⚙️ Django • FastAPI • React • LangChain • LangGraph 
 🌱 Exploring Machine Learning, advanced backend architecture, and LLM systems
 </p>
 
