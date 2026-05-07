@@ -6,7 +6,7 @@
 <h3 align="center">Python Developer | AI & RAG Enthusiast | Backend developer</h3>
 
 <p align="center">
-🚀 Building AI-powered web apps and Retrieval-Augmented Generation (RAG) pipelines<br>
+   Building AI-powered web apps and Retrieval-Augmented Generation (RAG) pipelines<br>
 ⚙️ Django • FastAPI • React • LangChain • LangGraph 
 🌱 Exploring Machine Learning, advanced backend architecture, and LLM systems
 </p>
