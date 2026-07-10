@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🧑‍💻 Hi, I am ELIAS</h1>
-<h3 align="center">softwre engineer | AI & RAG Enthusiast | Backend developer</h3>
+<h3 align="center">softwre engineer</h3>
 
 <p align="center">
    Building AI-powered web apps and Retrieval-Augmented Generation (RAG) pipelines<br>
