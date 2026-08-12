@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Rust Badge" />
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-00C1D4?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
