@@ -4,6 +4,7 @@
 
 <h1 align="center">🧑‍💻 Hi, I am ELIAS</h1>
 <h3 align="center">softwre engineer</h3>
+<h3 align="center">have experience in Python and Rust</h3>
 
 <p align="center">
    Building AI-powered web apps and Retrieval-Augmented Generation (RAG) pipelines<br>
