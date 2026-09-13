@@ -2,7 +2,7 @@
   <img src="https://streak-stats.demolab.com/?user=14elias&theme=dark" alt="GitHub Streak">
 </p>
 
-<h1 align="center">🧑‍💻 Hi, I am ELIAS</h1>
+<h1 align="center"> Hi, I am ELIAS</h1>
 <h3 align="center">softwre engineer</h3>
 
 <p align="center">
