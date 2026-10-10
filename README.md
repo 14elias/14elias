@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/FastAPI-00C1D4?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
 </p>
 
 <p align="center">
