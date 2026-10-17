@@ -6,7 +6,7 @@
 <h3 align="center">softwre engineer</h3>
 
 <p align="center">
-   Systems & Backend Engineer| AI Engineer | Rust contributor (@rust-lang/rustup) | CS student @ AAU
+   Systems & Backend Engineer | Rust contributor (@rust-lang/rustup) | CS student @ AAU
 </p>
 
 <p align="center">
